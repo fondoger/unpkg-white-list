@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.338.0 (2026-09-03)
+
+* feat: add `@distilled.cloud` to allowLargeScopes (#626) ([1d919ee](https://github.com/cnpm/unpkg-white-list/commit/1d919ee)), closes [#626](https://github.com/cnpm/unpkg-white-list/issues/626)
+* feat: add `@guandata/guanvis` to allowLargePackages (#625) ([1f6f486](https://github.com/cnpm/unpkg-white-list/commit/1f6f486)), closes [#625](https://github.com/cnpm/unpkg-white-list/issues/625)
+
 ## 1.337.0 (2026-09-01)
 
 * feat: add `@swmansion/argent` to allowLargePackages (#624) ([5cc69f0](https://github.com/cnpm/unpkg-white-list/commit/5cc69f0)), closes [#624](https://github.com/cnpm/unpkg-white-list/issues/624) [kacperkapusciak/goldie#2](https://github.com/kacperkapusciak/goldie/issues/2) [software-mansion/argent#980](https://github.com/software-mansion/argent/issues/980)
