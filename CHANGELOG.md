@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.339.0 (2026-09-06)
+
+* feat: add phaser to allowLargePackages (#627) ([1cd8e88](https://github.com/cnpm/unpkg-white-list/commit/1cd8e88)), closes [#627](https://github.com/cnpm/unpkg-white-list/issues/627)
+
 ## 1.338.0 (2026-09-03)
 
 * feat: add `@distilled.cloud` to allowLargeScopes (#626) ([1d919ee](https://github.com/cnpm/unpkg-white-list/commit/1d919ee)), closes [#626](https://github.com/cnpm/unpkg-white-list/issues/626)
